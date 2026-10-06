@@ -1,0 +1,20 @@
+{"id": "voc-01", "categoria": "vocabulario", "pregunta": "En República Dominicana, ¿qué es una guagua?", "referencia": "Un autobús o vehículo de transporte público de pasajeros."}
+{"id": "voc-02", "categoria": "vocabulario", "pregunta": "¿Qué es un concho en Santo Domingo?", "referencia": "Un carro público que hace una ruta fija y recoge varios pasajeros (taxi colectivo)."}
+{"id": "voc-03", "categoria": "vocabulario", "pregunta": "¿Qué es un motoconcho?", "referencia": "Una motocicleta que funciona como taxi (mototaxi)."}
+{"id": "voc-04", "categoria": "vocabulario", "pregunta": "¿Qué es un colmado en República Dominicana?", "referencia": "Una pequeña tienda de barrio donde se venden alimentos, bebidas y productos básicos."}
+{"id": "voc-05", "categoria": "vocabulario", "pregunta": "Si un dominicano te pide que botes algo en el zafacón, ¿dónde lo tiras?", "referencia": "En el cubo o papelera de basura."}
+{"id": "voc-06", "categoria": "vocabulario", "pregunta": "¿Qué tipo de vehículo es una yipeta?", "referencia": "Un vehículo todoterreno o SUV (jeepeta)."}
+{"id": "voc-07", "categoria": "vocabulario", "pregunta": "¿Qué significa 'dame un chin' en el habla dominicana?", "referencia": "Dame un poquito."}
+{"id": "voc-08", "categoria": "vocabulario", "pregunta": "¿Qué quiere decir que alguien 'está en olla'?", "referencia": "Que no tiene dinero, que está pelado."}
+{"id": "voc-09", "categoria": "vocabulario", "pregunta": "En República Dominicana, ¿qué significa que algo está 'jevi'?", "referencia": "Que está muy bien, chévere o genial."}
+{"id": "voc-10", "categoria": "vocabulario", "pregunta": "¿Qué es un 'pana' para un dominicano?", "referencia": "Un amigo o compañero cercano."}
+{"id": "voc-11", "categoria": "vocabulario", "pregunta": "¿Qué significa la expresión dominicana '¿Qué lo que?'", "referencia": "Es un saludo informal equivalente a '¿qué pasa?' o '¿cómo estás?'."}
+{"id": "voc-12", "categoria": "vocabulario", "pregunta": "¿Qué es el mangú?", "referencia": "Un puré de plátano verde hervido, típico del desayuno dominicano."}
+{"id": "voc-13", "categoria": "vocabulario", "pregunta": "En comida dominicana, ¿qué es 'la bandera'?", "referencia": "El plato típico de almuerzo: arroz blanco, habichuelas y carne (a menudo con ensalada)."}
+{"id": "ctx-01", "categoria": "contexto", "pregunta": "¿Cuál es la tasa general del ITBIS en República Dominicana?", "referencia": "18 %."}
+{"id": "ctx-02", "categoria": "contexto", "pregunta": "¿Cuántos dígitos tiene la cédula de identidad dominicana?", "referencia": "11 dígitos."}
+{"id": "ctx-03", "categoria": "contexto", "pregunta": "¿Cuántos dígitos tiene el RNC de una empresa (persona jurídica) en República Dominicana?", "referencia": "9 dígitos."}
+{"id": "ctx-04", "categoria": "contexto", "pregunta": "¿Qué códigos de área telefónicos usa República Dominicana?", "referencia": "809, 829 y 849."}
+{"id": "ctx-05", "categoria": "contexto", "pregunta": "¿Cuál es la moneda oficial de República Dominicana y su código ISO?", "referencia": "El peso dominicano, código DOP (símbolo RD$)."}
+{"id": "ctx-06", "categoria": "contexto", "pregunta": "¿Qué fecha se celebra la Independencia Nacional dominicana?", "referencia": "El 27 de febrero (de 1844)."}
+{"id": "ctx-07", "categoria": "contexto", "pregunta": "¿Qué número se marca para emergencias en República Dominicana?", "referencia": "El 911."}
